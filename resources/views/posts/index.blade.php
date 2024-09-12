@@ -23,10 +23,7 @@
 
 
     </div>
-    <div class="post">
-        <h2 class="title">Title</h2>
-        <p>This is a sample body.</p>
-    </div>
+
     </div>
 </body>
 
